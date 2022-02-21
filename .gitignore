@@ -1,2 +1,3 @@
-/ven
-/__pycache__
+.venv
+.env
+*.pic
